@@ -5,4 +5,4 @@
 
    Sentiment analysis is used in social media monitoring, allowing businesses to gain insights about how customers feel about certain topics, and detect urgent issues in real time before they spiral out of control.
 
-    This  task here is to classify a tweet as a positive or negative tweet sentiment wise and to discover abstract topics from the file cleaned_tweet_data.csv . 
+    This  task here is to classify a tweet as a positive or negative tweet sentiment wise and to discover abstract topics from the file cleaned_tweet_data.csv . this will give an immense insight from a raw data.
